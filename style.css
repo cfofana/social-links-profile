@@ -1,3 +1,36 @@
-body {
-    background-color: red;
+:root {
+    --clr-green: hsl(75, 94%, 57%);
+    --clr-white: hsl(0, 0%, 100%);
+    --clr-gray-200: hsl(0, 0%, 20%);
+    --clr-gray-500: hsl(0, 0%, 12%);
+    --clr-gray-700: hsl(0, 0%, 8%);
+
+    --fs-body: 0.875rem;
+
+    --ff-body: "Inter", serif;
+
+    --fw-body: 400;
+    --fw-links: 600;
+    --fw-heading: 700;
 }
+
+/* General styling */
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+body, h1, ul, li {
+    margin-top: 0;
+}
+
+img  {
+    max-width: 100%;
+}
+
+/* Reusable classes */
+
+/* Custom styling */
