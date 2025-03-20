@@ -10,11 +10,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -26,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images/screenshot.png)
+![](.assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://cfofana.github.io/social-links-profile/)
-- Live Site URL: [Add live site URL here](https://cfofana.github.io/social-links-profile/)
+- Solution URL: [Social links profile](https://cfofana.github.io/social-links-profile/)
+- Live Site URL: [Social links profile](https://cfofana.github.io/social-links-profile/)
 
 ## My process
 
