@@ -25,6 +25,9 @@ Users should be able to:
 
 ![](./assets/images/screenshot.png)
 
+### Screenshot - Mobile
+![](./assets/images/screenshot-mobile.png)
+
 ### Links
 
 - Solution URL: [Solution url](https://cfofana.github.io/social-links-profile/)
