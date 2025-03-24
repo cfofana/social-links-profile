@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Social links profile](https://cfofana.github.io/social-links-profile/)
-- Live Site URL: [Social links profile](https://cfofana.github.io/social-links-profile/)
+- Solution URL: [Solution url](https://cfofana.github.io/social-links-profile/)
+- Live Site URL: [Live Site](https://cfofana.github.io/social-links-profile/)
 
 ## My process
 

@@ -21,49 +21,33 @@
     <link rel="stylesheet" href="style.css" />
 
     <title>Frontend Mentor | Social links profile</title>
-
-    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-    <style>
-      .attribution {
-        font-size: 11px;
-        text-align: center;
-      }
-      .attribution a {
-        color: hsl(228, 45%, 44%);
-      }
-    </style>
   </head>
   <body>
     <main>
-      <div class="container">
+      <section class="container">
         <img
           class="profile-img"
           src="assets/images/avatar-jessica.jpeg"
           alt="Avatar of Jessica"
         />
-        <h1 class="profile-title">Jessica Randall</h1>
-        <p class="profile-location">London, United Kingdom</p>
-        <p class="profile-desc">"Front-end developer and avid reader."</p>
-        <div class="row">
-          <a href="" class="profile-link">GitHub</a>
-          <a href="" class="profile-link">Frontend Mentor</a>
-          <a href="" class="profile-link">LinkedIn</a>
-          <a href="" class="profile-link">Twitter</a>
-          <a href="" class="profile-link">Instagram</a>
+        <h1 class="profile-title" aria-label="Person's name">Jessica Randall</h1>
+        <p class="profile-location" aria-label="Person's address">London, United Kingdom</p>
+        <p class="profile-desc" aria-label="Person's job and interests">"Front-end developer, gardener and avid watcher of DIYs on YouTube."</p>
+        <div class="row" aria-label="Person's social media links">
+          <button><a href="" class="profile-link">GitHub</a></button>
+          <button><a href="" class="profile-link">Frontend Mentor</a></button>
+          <button><a href="" class="profile-link">LinkedIn</a></button>
+          <button><a href="" class="profile-link">Twitter</a></button>
+          <button><a href="" class="profile-link">Instagram</a></button>
         </div>
-      </div>
+      </section>
     </main>
 
-    <!-- <footer>
-      <div class="attribution">
-        <p>
-          Challenge by
-          <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-            >Frontend Mentor.</a
-          >
-        </p>
+    <footer> 
+      <section class="attribution">
+        <p>Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor.</a></p>
         <p>Coded by <a href="https://www.ceesayfofana.com">Ceesay Fofana</a>.</p>
-      </div>
-    </footer> -->
+      </section>
+    </footer> 
   </body>
 </html>

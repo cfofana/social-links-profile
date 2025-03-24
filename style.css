@@ -92,3 +92,11 @@ img  {
     background-color: var(--clr-green);
     color: var(--clr-gray-700);
 }
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
